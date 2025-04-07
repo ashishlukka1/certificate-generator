@@ -2,8 +2,6 @@
 
 Create beautiful, customized certificates in **minutes** using a template image and an Excel/CSV file of names.
 
-> 🚀 Built with love by [Ashish Lukka](#)
-
 ---
 
 ## ✨ Overview
