@@ -8,7 +8,7 @@ Create beautiful, customized certificates in **minutes** using a template image 
 
 ## ✨ Overview
 
-The **Professional Certificate Generator** is a desktop/web app designed to simplify the process of generating certificates for large groups — ideal for workshops, hackathons, seminars, or any events where you need to mass-generate personalized certificates.
+The **Professional Certificate Generator** is designed to simplify the process of generating certificates for large groups — ideal for workshops, hackathons, seminars, or any events where you need to mass-generate personalized certificates.
 
 Upload a certificate **template image**, import an **Excel or CSV** file with participant data, visually **position the text**, preview in real-time, and export all certificates with just one click.
 
@@ -24,16 +24,6 @@ Upload a certificate **template image**, import an **Excel or CSV** file with pa
 - 📄 Export as individual certificates (PDF/JPG/PNG)
 - 🛠️ Reset formatting with a single click
 - 📊 Displays live status: total certificates, readiness, orientation
-
----
-
-## 📸 Interface Preview
-
-### Upload Panel
-![Upload Page](https://i.postimg.cc/63q7FJxw/c9872ddb-dcbe-4d9b-9d3e-1908a16e0afd.png)
-
-### Editor Panel
-![Editor Page](https://i.postimg.cc/qv5bYKF5/74f93d72-ca7c-4bfc-a83e-1c0e9afa3c4f.png)
 
 ---
 
